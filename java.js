@@ -22,7 +22,7 @@ if(userinput=="02/06/2003"){
 }
 }else{
   for(i=0;i>=-1;i++){
-  alert("Sorry! Invalid Date if Birth");
+  alert("Sorry! Invalid Date of Birth");
   }
 }
 playPauseButton.addEventListener('click',function(){
